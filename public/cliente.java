@@ -29,11 +29,7 @@ public class Cliente implements Runnable{
         }
 
         int local;
-        // para se conectar ao servidor, cria-se objeto Socket.
-        // O primeiro parâmetro é o IP ou endereço da máquina que
-        // se quer conectar e o segundo é a porta da aplicação.
-        // Neste caso, usa-se o IP da máquina local (127.0.0.1)
-        // e a porta da aplicação ServidorDeEco (12345).
+
         if (operacao <= 4) {
             local = 12345;
         } else {

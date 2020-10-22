@@ -20,10 +20,6 @@ public class Server1 implements Runnable{
         System.out.println("Porta 12346 aberta!");
 
         // Aguarda alguém se conectar. A execução do servidor
-        // fica bloqueada na chamada do método accept da classe
-        // ServerSocket. Quando alguém se conectar ao servidor, o
-        // método desbloqueia e retorna com um objeto da classe
-        // Socket, que é uma porta da comunicação.
         System.out.println("Aguardando conexão do cliente...");
 
         while (true) {
