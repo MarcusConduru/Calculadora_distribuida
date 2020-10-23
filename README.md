@@ -27,9 +27,6 @@ Funcionamento das operações :
 - subtrai num2 de num1
 * multiplacação num1 e num2
 / divide num1 por num2
-% num1 por cento de num2
-^ num1 elevado por num2 
-√ num2 indice ,radicando num1
 
 SERVIDORES
 
