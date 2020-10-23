@@ -25,7 +25,7 @@ Funcionamento das operações :
 
 + soma num1 com num2
 - subtrai num2 de num1
-* multiplaca num1 e num2
+* multiplacação num1 e num2
 / divide num1 por num2
 % num1 por cento de num2
 ^ num1 elevado por num2 
