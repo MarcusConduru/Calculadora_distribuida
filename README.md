@@ -23,24 +23,14 @@ SINTAXE
 
 Funcionamento das operações:
 
++ Soma num1 com num2
+- subtrai num2 de num1 
+* multiplica num1 por num2
+/ divide num1 por num2
+% num1 por cento de num2
+^ num elevado por num2
+√ num2 indice, num2 radicando
 
-  + soma num1 com num2
-  - subtrai num2 de num1
-  * multiplica num1 por num2
-  / divide num1 por num2
-  % num1 por cento de num2
-  ^ num1 elevado por num2
-  √ num2 indice , num2 radicando
-
-Funcionamento das operações :
-
-  + soma num1 com num2
-  - subtrai num2 de num1
-  * multiplica num1 por num2
-  / divide num1 por num2
-  % num1 por cento de num2
-  ^ num1 elevado por num2
-  √ num2 indice , num2 radicando
   
 SERVIDORES
 
