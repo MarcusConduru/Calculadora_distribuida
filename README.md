@@ -21,8 +21,14 @@ Radiciação
 
 SINTAXE
 
+Operações especiais:
+
+Porcentagem
+Exponenciação
+Radiciação
+
 Funcionamento das operações :
-jhvjhgvg
+
   + soma num1 com num2
   - subtrai num2 de num1
   * multiplica num1 por num2
