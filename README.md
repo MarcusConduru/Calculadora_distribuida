@@ -1,28 +1,42 @@
 # Calculadora_distribuida
 
+DESCRIÇÃO
+
+Trabalho de faculcade com o objetivo de desenvolver uma calculadora distribuida multithread com dois servidores usando sockets
+
 OPERAÇÕES 
 
-operações basicas:
+Operações basicas:
 
-soma
-subtracao
-divisao
-multiplicação
+Soma
+Subtração
+Divisão
+Multiplicação
 
-operações especiais:
+Operações especiais:
 
-porecentagem
-exponenciacao
-radiciação
+Porcentagem
+Exponenciação
+Radiciação
 
 SINTAXE
 
-funcionamento das operações :
+Funcionamento das operações :
 
-+ soma n1 com n2
-- subtrai n2 de n1
-* multiplaca n1 e n2
-/ divide n1 por n2
-% n1 por cento de n2
-^ n1 elevado por n2 
-√ n1 indice da raiz de n2
++ soma num1 com num2
+- subtrai num2 de num1
+* multiplaca num1 e num2
+/ divide num1 por num2
+% num1 por cento de num2
+^ num1 elevado por num2 
+√ num2 indice ,radicando num1
+
+SERVIDORES
+
+Server
+Ocupa a porta 12345
+Faz as operações basicas
+
+Server1 
+Ocupa a porta 12346
+Faz as operações especiais
