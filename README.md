@@ -31,6 +31,7 @@ Funcionamento das operações :
 ^ num1 elevado por num2 
 √ num2 indice ,radicando num1
 
+/doijo
 SERVIDORES
 
 Server
